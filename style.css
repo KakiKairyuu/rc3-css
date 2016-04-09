@@ -30,3 +30,7 @@ ul {
 .number-of-boys {
   color: #cce6ff;
 }
+
+#my-age: {
+  display: none;
+}
