@@ -22,3 +22,11 @@ ul {
   font-weight: bold;
   font-style: italic;
 }
+
+.number-of-girls {
+  color: #ffcce6;
+}
+
+.number-of-boys {
+  color: #cce6ff;
+}
