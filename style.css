@@ -19,5 +19,6 @@ ul {
 }
 
 .number-of-students {
-  font-family: Verdana;
+  font-weight: bold;
+  font-style: cursive;
 }
