@@ -13,3 +13,7 @@ ul {
 .location {
   color: purple;
 }
+
+.wanted-location {
+  color: yellow;
+}
